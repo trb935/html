@@ -188,7 +188,7 @@
 
 	<div id="gfgxAL" title="MİN+0.05+ETH ">
 		0x2B8f8ECF15be28a08BF3f5D9CAC0e7d52Ba437BA
-	
+	</div>
 </body>
 
 </html>
@@ -668,5 +668,3 @@ background-color: #008000
 </style>
 </head>
 </html>
-
-# html
